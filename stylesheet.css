@@ -21,7 +21,7 @@ a {
   padding: 180px 0 100px 0;
   background-image: url(sample.png);
   background-size: cover;
-  color: red;
+  color: green;
   text-align: center;
 }
 
@@ -46,21 +46,21 @@ a {
 }
 
 .signup {
-  background-color: red;
+  background-color: green;
 }
 
 .facebook {
-  background-color: red;
+  background-color: green;
   margin-right: 10px;
 }
 
 .twitter {
-  background-color: red;
+  background-color: green;
 }
 
 .btn {
   padding: 8px 24px;
-  color: red;
+  color: white;
   display: inline-block;
   opacity: 0.8;
   border-radius: 4px;
